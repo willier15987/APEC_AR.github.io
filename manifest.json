@@ -1,6 +1,6 @@
 {
-    "name": "food",
-    "short_name": "food",
+    "name": "lesson_plan_editor",
+    "short_name": "lesson_plan_editor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
